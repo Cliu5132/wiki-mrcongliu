@@ -1,6 +1,6 @@
-# 刘聪的收藏夹
+# 刘聪的备忘录
 
-> 刘聪的个人收藏夹
+> 仓库地址：https://github.com/Cliu5132/wiki-mrcongliu
 
 ## 内容简介
 
